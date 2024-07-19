@@ -4,6 +4,7 @@ Robosim V.1 is a robotic simulator, designed to simulate algorithms for indoor r
 The walls of floor are represented as '#' Landmarks are represented as '.'
 And the robot is represented as " ^ , v , < , > " depending on the direction it is facing in.
 
+
 Working-
 
 The first step is to input the map-filename
@@ -20,7 +21,10 @@ The user can change the algorithm as per his requirement.
 
 The Simulator in the end gives the time elapsed in execution.
 
+
+
 Developed By-
+
 Dr. Samarth Godara,
 Scientist, ICAR-IASRI, New Delhi
 Email: samarth.godara@gmail.com
