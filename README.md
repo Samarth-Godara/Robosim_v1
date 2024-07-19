@@ -5,7 +5,7 @@ The walls of floor are represented as '#' Landmarks are represented as '.'
 And the robot is represented as " ^ , v , < , > " depending on the direction it is facing in.
 
 
-##Working-
+## Working-
 
 The first step is to input the map-filename
 
@@ -23,7 +23,7 @@ The Simulator in the end gives the time elapsed in execution.
 
 
 
-##Developed By-
+## Developed By-
 
 Dr. Samarth Godara,
 
