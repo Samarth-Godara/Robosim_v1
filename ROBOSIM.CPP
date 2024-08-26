@@ -17,7 +17,7 @@
 	The user can change the algorithm as per his requirement.
 	The Simulator in the end gives the time elapsed in execution.
 
-	Developed By : Samarth Godara 24-04-2017
+	Developed By : Samarth Godara 24-04-2024
 */
 
 #include <stdio.h>
@@ -487,7 +487,7 @@ void print_message()
 
 	printf("\n\n\tRobosim V.1 is a robotic simulator, designed to simulate algorithms\n\tfor indoor robots using artificial landmarks on the floor.\n\tThe walls of floor are represented as '#'\n\tLandmarks are represented as '.'\n\tAnd the robot is represented as \" ^ , v , < , > \" depending on\n\tthe direction it is facing in. Press any key to continue...");
 	getch();
-	printf("\n\n\n\tWorking :\n\tThe first step is to input the map-filename\n\tThe simulator calculates the dimensions of the map from file\n\tNext step is to copy the map into memory\n\tThe simulator then asks the user to initialize the position of robot\n\ton the floor\n\tAfter the initialization the simulation of the algorithm is continued\n\tThe user can change the algorithm as per his requirement.\n\tThe Simulator in the end gives the time elapsed in execution.\n\n\tDeveloped By : Samarth Godara 24-04-2017\n\n");
+	printf("\n\n\n\tWorking :\n\tThe first step is to input the map-filename\n\tThe simulator calculates the dimensions of the map from file\n\tNext step is to copy the map into memory\n\tThe simulator then asks the user to initialize the position of robot\n\ton the floor\n\tAfter the initialization the simulation of the algorithm is continued\n\tThe user can change the algorithm as per his requirement.\n\tThe Simulator in the end gives the time elapsed in execution.\n\n\tDeveloped By : Samarth Godara 24-04-2024\n\n");
 }
 
 int count_1s()			//count the number of 1s around the robot
