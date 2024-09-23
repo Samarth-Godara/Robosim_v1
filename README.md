@@ -26,6 +26,13 @@ The Simulator in the end gives the time elapsed in execution.
 
 Robosim v1 Demonstration - Robotic Simulator for Line Follower Robots:  https://www.youtube.com/watch?v=S-fIdkCqyhY
 
+## AI-based Navigational Algorithm
+
+Details regarding the AI-based algorithm (including video tutorials) implemented in the Robosim simulator is available at: https://github.com/Samarth-Godara/pony
+
+The published research paper regarding the algorithm is available at: https://ieeexplore.ieee.org/document/10681090
+
+Reference: S. Godara, G. Sikka, R. Parsad, S. Marwaha, M. A. Faiz and R. S. Bana, "Pony: Leveraging m-graphs and Pruned-BFS Algorithm to Elevate AI-Powered Low-Cost Self-Driving Robotics," in IEEE Access, doi: 10.1109/ACCESS.2024.3462102.
 
 ## Developed By-
 
